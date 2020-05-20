@@ -19,61 +19,21 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "teacher"
-name = "teacher"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-[[menu.footer]]
-URL = "research"
-name = "research"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+name = "Contact"
+weight = 6
 [[menu.main]]
-URL = "course"
-name = "course"
-weight = 2
+name = "Inscription"
+weight = 5
 [[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[menu.main]]
-URL = "teacher"
-name = "teacher"
-parent = "Pages"
-[[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Pages"
-[[menu.main]]
-URL = "event"
-name = "event"
-parent = "Pages"
-[[menu.main]]
-URL = "scholarship"
-name = "scholarship"
-parent = "Pages"
-[[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
-[[menu.main]]
-URL = "blog"
-name = "blog"
+name = "Membres"
 weight = 4
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+name = "Introduction"
+weight = 2
+[[menu.main]]
+name = "Acceuil"
+weight = 1
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
